@@ -44,6 +44,11 @@ public class QuizActivity extends AppCompatActivity {
             new Question(R.string.question_africa, false),
             new Question(R.string.question_americas, true),
             new Question(R.string.question_asia, true),
+            new Question(R.string.question_oceans_2, false),
+            new Question(R.string.question_mideast_2, true),
+            new Question(R.string.question_africa_2, false),
+            new Question(R.string.question_americas_2, true),
+            new Question(R.string.question_asia_2, true),
     };
 
     @Override
